@@ -1,0 +1,16 @@
+\begin{tabular}{ll}
+\toprule
+Comparação & Mann-Whitney \\
+\midrule
+KNN vs AD & MannwhitneyuResult(statistic=400.0, pvalue=1.4508889103849668e-11) \\
+KNN vs NB & MannwhitneyuResult(statistic=399.0, pvalue=2.9017778207699336e-11) \\
+KNN vs SVM & MannwhitneyuResult(statistic=22.5, pvalue=8.341160345803174e-08) \\
+KNN vs MLP & MannwhitneyuResult(statistic=59.5, pvalue=6.909214241032193e-05) \\
+AD vs NB & MannwhitneyuResult(statistic=0.0, pvalue=1.4508889103849668e-11) \\
+AD vs SVM & MannwhitneyuResult(statistic=0.0, pvalue=1.4508889103849668e-11) \\
+AD vs MLP & MannwhitneyuResult(statistic=0.0, pvalue=1.4508889103849668e-11) \\
+NB vs SVM & MannwhitneyuResult(statistic=0.0, pvalue=1.4508889103849668e-11) \\
+NB vs MLP & MannwhitneyuResult(statistic=3.0, pvalue=1.0156222372694768e-10) \\
+SVM vs MLP & MannwhitneyuResult(statistic=254.0, pvalue=0.1492835604650663) \\
+\bottomrule
+\end{tabular}
