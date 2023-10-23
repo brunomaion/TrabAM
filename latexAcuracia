@@ -1,0 +1,9 @@
+\begin{tabular}{lrrrrr}
+\toprule
+ & KNN & Árvore de Decisão & Naive Bayes & SVM & MLP \\
+\midrule
+0 & 0.852000 & 0.757600 & 0.823200 & 0.878400 & 0.860800 \\
+1 & 0.860000 & 0.750400 & 0.812800 & 0.872000 & 0.862400 \\
+Média & 0.856000 & 0.754000 & 0.818000 & 0.875200 & 0.861600 \\
+\bottomrule
+\end{tabular}
